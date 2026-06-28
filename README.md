@@ -8,7 +8,6 @@
 - 🌱 **Learning:** Cloud Computing, Artificial Intelligence, and System Design.
 - 🤝 **Collaborating:** On open-source and innovative technology projects.
 - 🤔 **Exploring:** Distributed Systems, DevOps, and Infrastructure Engineering.
-- 💬 **Discuss:** Cloud Architecture, Software Engineering, and Technology.
 - 📫 **Reach Me:** aaditya9awar@gmail.com
 - 🎓 **Education:** Computer Science Engineering.
 - ⚡ **Goal:** Designing systems that are scalable, resilient, and efficient.
